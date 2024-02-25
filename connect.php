@@ -21,3 +21,4 @@ mysql_close($linhk);
 ?>
 Thaine
 mat
+them tiep ne
